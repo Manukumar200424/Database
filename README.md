@@ -87,4 +87,12 @@
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Manukumar200424/Database/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manukumar200424/Database/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manukumar200424/Database/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

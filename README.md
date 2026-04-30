@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0020-valid-parentheses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Manukumar200424/Database/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

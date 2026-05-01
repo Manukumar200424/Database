@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manukumar200424/Database/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
@@ -98,12 +99,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manukumar200424/Database/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Manukumar200424/Database/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Manukumar200424/Database/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manukumar200424/Database/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Manukumar200424/Database/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |

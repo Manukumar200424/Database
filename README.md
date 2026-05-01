@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manukumar200424/Database/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manukumar200424/Database/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Manukumar200424/Database/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
@@ -94,6 +95,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manukumar200424/Database/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Manukumar200424/Database/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manukumar200424/Database/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Manukumar200424/Database/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

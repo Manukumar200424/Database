@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Manukumar200424/Database/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manukumar200424/Database/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Manukumar200424/Database/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Manukumar200424/Database/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manukumar200424/Database/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Manukumar200424/Database/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Manukumar200424/Database/tree/master/0876-middle-of-the-linked-list) |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manukumar200424/Database/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Manukumar200424/Database/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

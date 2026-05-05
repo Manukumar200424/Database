@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Manukumar200424/Database/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manukumar200424/Database/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Manukumar200424/Database/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Manukumar200424/Database/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Manukumar200424/Database/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -29,12 +30,14 @@
 | [0008-string-to-integer-atoi](https://github.com/Manukumar200424/Database/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Manukumar200424/Database/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Manukumar200424/Database/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Manukumar200424/Database/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0020-valid-parentheses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Manukumar200424/Database/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Hash Table
 |  |

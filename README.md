@@ -138,6 +138,7 @@
 | [0002-add-two-numbers](https://github.com/Manukumar200424/Database/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manukumar200424/Database/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Manukumar200424/Database/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Manukumar200424/Database/tree/master/0876-middle-of-the-linked-list) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manukumar200424/Database/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0023-merge-k-sorted-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -199,4 +202,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manukumar200424/Database/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

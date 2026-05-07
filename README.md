@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/Manukumar200424/Database/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Manukumar200424/Database/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manukumar200424/Database/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manukumar200424/Database/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
@@ -121,6 +122,7 @@
 | [0016-3sum-closest](https://github.com/Manukumar200424/Database/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manukumar200424/Database/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manukumar200424/Database/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Manukumar200424/Database/tree/master/0876-middle-of-the-linked-list) |

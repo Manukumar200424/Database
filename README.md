@@ -40,6 +40,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manukumar200424/Database/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manukumar200424/Database/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0032-longest-valid-parentheses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manukumar200424/Database/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0032-longest-valid-parentheses) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Manukumar200424/Database/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Manukumar200424/Database/tree/master/0739-daily-temperatures) |

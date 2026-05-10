@@ -45,6 +45,7 @@
 | [0020-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manukumar200424/Database/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Manukumar200424/Database/tree/master/0038-count-and-say) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie

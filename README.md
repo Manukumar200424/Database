@@ -50,6 +50,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Manukumar200424/Database/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Manukumar200424/Database/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -101,6 +102,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Manukumar200424/Database/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manukumar200424/Database/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -179,6 +181,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Manukumar200424/Database/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manukumar200424/Database/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Manukumar200424/Database/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manukumar200424/Database/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
 ## Design
 |  |
 | ------- |

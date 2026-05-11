@@ -49,6 +49,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manukumar200424/Database/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Manukumar200424/Database/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Manukumar200424/Database/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Manukumar200424/Database/tree/master/0043-multiply-strings) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -84,6 +85,7 @@
 | [0012-integer-to-roman](https://github.com/Manukumar200424/Database/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Manukumar200424/Database/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Manukumar200424/Database/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Manukumar200424/Database/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
@@ -249,4 +251,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Manukumar200424/Database/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Manukumar200424/Database/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@
 | [0045-jump-game-ii](https://github.com/Manukumar200424/Database/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Manukumar200424/Database/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Manukumar200424/Database/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -54,6 +55,7 @@
 | [0038-count-and-say](https://github.com/Manukumar200424/Database/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Manukumar200424/Database/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -72,6 +74,7 @@
 | [0036-valid-sudoku](https://github.com/Manukumar200424/Database/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manukumar200424/Database/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Manukumar200424/Database/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
@@ -244,6 +247,7 @@
 | [0015-3sum](https://github.com/Manukumar200424/Database/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Manukumar200424/Database/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manukumar200424/Database/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |

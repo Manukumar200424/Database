@@ -23,6 +23,7 @@
 | [0042-trapping-rain-water](https://github.com/Manukumar200424/Database/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Manukumar200424/Database/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Manukumar200424/Database/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Manukumar200424/Database/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -89,6 +90,7 @@
 | [0013-roman-to-integer](https://github.com/Manukumar200424/Database/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Manukumar200424/Database/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Manukumar200424/Database/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Manukumar200424/Database/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manukumar200424/Database/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Manukumar200424/Database/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Manukumar200424/Database/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |

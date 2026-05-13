@@ -28,6 +28,7 @@
 | [0053-maximum-subarray](https://github.com/Manukumar200424/Database/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manukumar200424/Database/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Manukumar200424/Database/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Manukumar200424/Database/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -261,6 +262,7 @@
 | [0016-3sum-closest](https://github.com/Manukumar200424/Database/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Manukumar200424/Database/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Manukumar200424/Database/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |

@@ -25,6 +25,7 @@
 | [0046-permutations](https://github.com/Manukumar200424/Database/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Manukumar200424/Database/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Manukumar200424/Database/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -114,6 +115,7 @@
 | [0042-trapping-rain-water](https://github.com/Manukumar200424/Database/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Manukumar200424/Database/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Manukumar200424/Database/tree/master/0053-maximum-subarray) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -222,6 +224,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manukumar200424/Database/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Manukumar200424/Database/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |

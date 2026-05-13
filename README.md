@@ -27,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/Manukumar200424/Database/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Manukumar200424/Database/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manukumar200424/Database/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Manukumar200424/Database/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -117,6 +118,7 @@
 | [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Manukumar200424/Database/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Manukumar200424/Database/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Manukumar200424/Database/tree/master/0055-jump-game) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -233,6 +235,7 @@
 | [0011-container-with-most-water](https://github.com/Manukumar200424/Database/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Manukumar200424/Database/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Manukumar200424/Database/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Manukumar200424/Database/tree/master/0055-jump-game) |
 ## Design
 |  |
 | ------- |

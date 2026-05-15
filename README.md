@@ -31,6 +31,7 @@
 | [0056-merge-intervals](https://github.com/Manukumar200424/Database/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Manukumar200424/Database/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Manukumar200424/Database/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Manukumar200424/Database/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -126,6 +127,7 @@
 | [0053-maximum-subarray](https://github.com/Manukumar200424/Database/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manukumar200424/Database/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Manukumar200424/Database/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Manukumar200424/Database/tree/master/0063-unique-paths-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -135,6 +137,7 @@
 | [0048-rotate-image](https://github.com/Manukumar200424/Database/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manukumar200424/Database/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manukumar200424/Database/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Manukumar200424/Database/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |

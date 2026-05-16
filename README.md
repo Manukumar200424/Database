@@ -72,6 +72,7 @@
 | [0067-add-binary](https://github.com/Manukumar200424/Database/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Manukumar200424/Database/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Manukumar200424/Database/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Manukumar200424/Database/tree/master/0072-edit-distance) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -140,6 +141,7 @@
 | [0063-unique-paths-ii](https://github.com/Manukumar200424/Database/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Manukumar200424/Database/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Manukumar200424/Database/tree/master/0072-edit-distance) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |

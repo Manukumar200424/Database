@@ -33,6 +33,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Manukumar200424/Database/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Manukumar200424/Database/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Manukumar200424/Database/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -109,6 +110,7 @@
 | [0050-powx-n](https://github.com/Manukumar200424/Database/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Manukumar200424/Database/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Manukumar200424/Database/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Manukumar200424/Database/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |

@@ -36,6 +36,7 @@
 | [0066-plus-one](https://github.com/Manukumar200424/Database/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Manukumar200424/Database/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Manukumar200424/Database/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Manukumar200424/Database/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -156,6 +157,7 @@
 | [0063-unique-paths-ii](https://github.com/Manukumar200424/Database/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Manukumar200424/Database/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Manukumar200424/Database/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -208,6 +210,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manukumar200424/Database/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Manukumar200424/Database/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Manukumar200424/Database/tree/master/0704-binary-search) |
 ## Linked List

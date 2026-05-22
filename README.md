@@ -82,6 +82,7 @@
 | [0072-edit-distance](https://github.com/Manukumar200424/Database/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Manukumar200424/Database/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Manukumar200424/Database/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/Manukumar200424/Database/tree/master/0093-restore-ip-addresses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Trie
@@ -334,6 +335,7 @@
 | [0077-combinations](https://github.com/Manukumar200424/Database/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Manukumar200424/Database/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Manukumar200424/Database/tree/master/0093-restore-ip-addresses) |
 ## Merge Sort
 |  |
 | ------- |

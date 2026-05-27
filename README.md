@@ -43,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Manukumar200424/Database/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -108,6 +109,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Manukumar200424/Database/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Manukumar200424/Database/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
@@ -196,6 +198,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Manukumar200424/Database/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -320,6 +323,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Manukumar200424/Database/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -413,6 +417,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Manukumar200424/Database/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |

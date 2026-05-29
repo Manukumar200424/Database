@@ -203,6 +203,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Manukumar200424/Database/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manukumar200424/Database/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manukumar200424/Database/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0110-balanced-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -213,6 +214,7 @@
 | [0100-same-tree](https://github.com/Manukumar200424/Database/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Manukumar200424/Database/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -429,6 +431,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Manukumar200424/Database/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manukumar200424/Database/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manukumar200424/Database/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |

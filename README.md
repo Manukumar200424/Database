@@ -45,6 +45,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manukumar200424/Database/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Manukumar200424/Database/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -169,6 +170,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Manukumar200424/Database/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Manukumar200424/Database/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Manukumar200424/Database/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Manukumar200424/Database/tree/master/0118-pascals-triangle) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |

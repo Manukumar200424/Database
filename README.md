@@ -48,6 +48,7 @@
 | [0118-pascals-triangle](https://github.com/Manukumar200424/Database/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manukumar200424/Database/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Manukumar200424/Database/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manukumar200424/Database/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -175,6 +176,7 @@
 | [0118-pascals-triangle](https://github.com/Manukumar200424/Database/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Manukumar200424/Database/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Manukumar200424/Database/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manukumar200424/Database/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |

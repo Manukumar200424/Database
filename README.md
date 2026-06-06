@@ -179,6 +179,7 @@
 | [0120-triangle](https://github.com/Manukumar200424/Database/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manukumar200424/Database/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manukumar200424/Database/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Matrix
 |  |
@@ -221,6 +222,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manukumar200424/Database/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manukumar200424/Database/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -237,6 +239,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manukumar200424/Database/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manukumar200424/Database/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -468,6 +471,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manukumar200424/Database/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manukumar200424/Database/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |

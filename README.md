@@ -230,6 +230,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manukumar200424/Database/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Manukumar200424/Database/tree/master/0129-sum-root-to-leaf-numbers) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -247,6 +248,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manukumar200424/Database/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Manukumar200424/Database/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -484,6 +486,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manukumar200424/Database/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Manukumar200424/Database/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |

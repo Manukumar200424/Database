@@ -51,6 +51,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manukumar200424/Database/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manukumar200424/Database/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Manukumar200424/Database/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -202,6 +203,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Manukumar200424/Database/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manukumar200424/Database/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Manukumar200424/Database/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Manukumar200424/Database/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -251,6 +253,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Manukumar200424/Database/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -269,6 +272,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Manukumar200424/Database/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Manukumar200424/Database/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Manukumar200424/Database/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -277,6 +281,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manukumar200424/Database/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |

@@ -53,6 +53,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Manukumar200424/Database/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Manukumar200424/Database/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/Manukumar200424/Database/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
@@ -129,6 +130,7 @@
 | [0127-word-ladder](https://github.com/Manukumar200424/Database/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Manukumar200424/Database/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/Manukumar200424/Database/tree/master/0149-max-points-on-a-line) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
 | [2615-sum-of-distances](https://github.com/Manukumar200424/Database/tree/master/2615-sum-of-distances) |
@@ -156,6 +158,7 @@
 | [0070-climbing-stairs](https://github.com/Manukumar200424/Database/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Manukumar200424/Database/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Manukumar200424/Database/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -508,4 +511,8 @@
 | [0099-recover-binary-search-tree](https://github.com/Manukumar200424/Database/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manukumar200424/Database/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manukumar200424/Database/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Manukumar200424/Database/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

@@ -65,6 +65,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/Manukumar200424/Database/tree/master/1620-coordinate-with-maximum-network-quality) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/Manukumar200424/Database/tree/master/2615-sum-of-distances) |
@@ -539,4 +540,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Manukumar200424/Database/tree/master/1192-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [1620-coordinate-with-maximum-network-quality](https://github.com/Manukumar200424/Database/tree/master/1620-coordinate-with-maximum-network-quality) |
 <!---LeetCode Topics End-->

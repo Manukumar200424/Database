@@ -69,6 +69,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/Manukumar200424/Database/tree/master/2615-sum-of-distances) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manukumar200424/Database/tree/master/0132-palindrome-partitioning-ii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -325,6 +327,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manukumar200424/Database/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Manukumar200424/Database/tree/master/0704-binary-search) |
+| [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
 | ------- |
@@ -418,6 +421,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
+| [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -517,4 +521,16 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Manukumar200424/Database/tree/master/0149-max-points-on-a-line) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->

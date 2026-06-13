@@ -264,6 +264,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Manukumar200424/Database/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
+| [1192-critical-connections-in-a-network](https://github.com/Manukumar200424/Database/tree/master/1192-critical-connections-in-a-network) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -524,6 +525,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Manukumar200424/Database/tree/master/1192-critical-connections-in-a-network) |
 | [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -533,4 +535,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Manukumar200424/Database/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

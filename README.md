@@ -60,6 +60,7 @@
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Manukumar200424/Database/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Manukumar200424/Database/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Manukumar200424/Database/tree/master/0994-rotting-oranges) |
@@ -137,6 +138,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Manukumar200424/Database/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Manukumar200424/Database/tree/master/0149-max-points-on-a-line) |
+| [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
 | [1590-make-sum-divisible-by-p](https://github.com/Manukumar200424/Database/tree/master/1590-make-sum-divisible-by-p) |
@@ -174,6 +176,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
@@ -418,6 +421,7 @@
 | [0055-jump-game](https://github.com/Manukumar200424/Database/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manukumar200424/Database/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Manukumar200424/Database/tree/master/0135-candy) |
+| [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 ## Design
 |  |
 | ------- |
@@ -433,6 +437,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manukumar200424/Database/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 | [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
 | [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
@@ -449,6 +454,7 @@
 | [0056-merge-intervals](https://github.com/Manukumar200424/Database/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Manukumar200424/Database/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manukumar200424/Database/tree/master/0088-merge-sorted-array) |
+| [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 ## Backtracking
 |  |
 | ------- |

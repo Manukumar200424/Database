@@ -60,6 +60,7 @@
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Manukumar200424/Database/tree/master/0239-sliding-window-maximum) |
 | [0284-peeking-iterator](https://github.com/Manukumar200424/Database/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/Manukumar200424/Database/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Manukumar200424/Database/tree/master/0704-binary-search) |
@@ -328,6 +329,7 @@
 | [0125-valid-palindrome](https://github.com/Manukumar200424/Database/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Manukumar200424/Database/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Manukumar200424/Database/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Manukumar200424/Database/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -339,6 +341,7 @@
 | [0069-sqrtx](https://github.com/Manukumar200424/Database/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Manukumar200424/Database/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manukumar200424/Database/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Manukumar200424/Database/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Manukumar200424/Database/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Manukumar200424/Database/tree/master/0704-binary-search) |
 | [3620-network-recovery-pathways](https://github.com/Manukumar200424/Database/tree/master/3620-network-recovery-pathways) |
@@ -487,6 +490,7 @@
 | [0067-add-binary](https://github.com/Manukumar200424/Database/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Manukumar200424/Database/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Manukumar200424/Database/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Manukumar200424/Database/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |

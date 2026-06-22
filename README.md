@@ -111,6 +111,7 @@
 | [0127-word-ladder](https://github.com/Manukumar200424/Database/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manukumar200424/Database/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Manukumar200424/Database/tree/master/0299-bulls-and-cows) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -141,6 +142,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Manukumar200424/Database/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Manukumar200424/Database/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Manukumar200424/Database/tree/master/0149-max-points-on-a-line) |
+| [0299-bulls-and-cows](https://github.com/Manukumar200424/Database/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manukumar200424/Database/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
@@ -179,6 +181,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Manukumar200424/Database/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/Manukumar200424/Database/tree/master/0621-task-scheduler) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming

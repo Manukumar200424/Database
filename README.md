@@ -110,6 +110,7 @@
 | [0126-word-ladder-ii](https://github.com/Manukumar200424/Database/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Manukumar200424/Database/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Manukumar200424/Database/tree/master/0132-palindrome-partitioning-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -256,6 +257,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Manukumar200424/Database/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Manukumar200424/Database/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Depth-First Search
@@ -277,6 +279,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Manukumar200424/Database/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Manukumar200424/Database/tree/master/1192-critical-connections-in-a-network) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -298,6 +301,7 @@
 | [0127-word-ladder](https://github.com/Manukumar200424/Database/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Manukumar200424/Database/tree/master/0994-rotting-oranges) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -431,6 +435,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manukumar200424/Database/tree/master/0225-implement-stack-using-queues) |
 | [0284-peeking-iterator](https://github.com/Manukumar200424/Database/tree/master/0284-peeking-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
 ## Queue
 |  |
@@ -533,6 +538,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manukumar200424/Database/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manukumar200424/Database/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Manukumar200424/Database/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |

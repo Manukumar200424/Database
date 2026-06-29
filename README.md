@@ -112,6 +112,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Manukumar200424/Database/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Manukumar200424/Database/tree/master/0299-bulls-and-cows) |
+| [0385-mini-parser](https://github.com/Manukumar200424/Database/tree/master/0385-mini-parser) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Manukumar200424/Database/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Manukumar200424/Database/tree/master/2833-furthest-point-from-origin) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Manukumar200424/Database/tree/master/3327-check-if-dfs-strings-are-palindromes) |
@@ -283,6 +284,7 @@
 | [0130-surrounded-regions](https://github.com/Manukumar200424/Database/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manukumar200424/Database/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manukumar200424/Database/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0385-mini-parser](https://github.com/Manukumar200424/Database/tree/master/0385-mini-parser) |
 | [1192-critical-connections-in-a-network](https://github.com/Manukumar200424/Database/tree/master/1192-critical-connections-in-a-network) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manukumar200424/Database/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Manukumar200424/Database/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -395,6 +397,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Manukumar200424/Database/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Manukumar200424/Database/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Manukumar200424/Database/tree/master/0225-implement-stack-using-queues) |
+| [0385-mini-parser](https://github.com/Manukumar200424/Database/tree/master/0385-mini-parser) |
 | [0503-next-greater-element-ii](https://github.com/Manukumar200424/Database/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Manukumar200424/Database/tree/master/0739-daily-temperatures) |
 | [1172-dinner-plate-stacks](https://github.com/Manukumar200424/Database/tree/master/1172-dinner-plate-stacks) |
